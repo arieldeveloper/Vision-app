@@ -1,6 +1,6 @@
 # Vision-app
 
-Vision was initially built for the visually impaired. It uses CoreML and machine learning algorithms to make a prediction of what it sees. 
+Vision was initially built for the visually impaired. It uses CoreML and machine learning algorithms to make a prediction of what it sees, based on 1000 different categories.
 
 ## Instructions 
 Point your camera to the object and take a clear picture of the object by tapping the screen once. Make sure to use the flash feature if it is dark. The app will read back what what it sees.
